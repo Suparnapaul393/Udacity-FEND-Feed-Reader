@@ -12,3 +12,6 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 - Jasmine
 - jQuery
 - HTML5/CSS3
+
+
+#Link to the Udaci-Feed Reader: https://suparnapaul393.github.io/Udacity-FEND-Feed-Reader/
