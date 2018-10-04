@@ -24,4 +24,4 @@ Go to the URL http://localhost:8080/ in browser.
 
 
 
-https://suparnapaul393.github.io/Udacity-FEND-Feed-Reader/
+Link to the website:https://suparnapaul393.github.io/Udacity-FEND-Feed-Reader/
